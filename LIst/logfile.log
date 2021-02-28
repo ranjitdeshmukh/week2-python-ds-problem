@@ -1,0 +1,20 @@
+2021-02-26 17:48:28,885 ERROR:log_namespace.logfile local variable 'result' referenced before assignment
+2021-02-26 17:48:55,812 ERROR:log_namespace.logfile local variable 'result' referenced before assignment
+2021-02-26 17:50:01,579 ERROR:log_namespace.logfile local variable 'result' referenced before assignment
+2021-02-26 17:50:52,680 ERROR:log_namespace.logfile local variable 'result' referenced before assignment
+2021-02-26 17:51:12,019 ERROR:log_namespace.logfile local variable 'result' referenced before assignment
+2021-02-26 17:53:01,560 ERROR:log_namespace.logfile must be str, not int
+2021-02-26 17:56:28,284 ERROR:log_namespace.logfile invalid literal for int() with base 10: ''
+2021-02-26 17:56:36,396 ERROR:log_namespace.logfile invalid literal for int() with base 10: 't'
+2021-02-26 17:56:39,005 ERROR:log_namespace.logfile invalid literal for int() with base 10: ''
+2021-02-26 17:56:48,309 ERROR:log_namespace.logfile invalid literal for int() with base 10: 'e'
+2021-02-26 18:05:28,307 ERROR:log_namespace.logfile invalid literal for int() with base 10: ''
+2021-02-26 23:29:36,516 ERROR:log_namespace.logfile local variable 'Sample_List' referenced before assignment
+2021-02-26 23:29:49,042 ERROR:log_namespace.logfile local variable 'Sample_List' referenced before assignment
+2021-02-26 23:30:06,917 ERROR:log_namespace.logfile list assignment index out of range
+2021-02-26 23:30:12,923 ERROR:log_namespace.logfile list assignment index out of range
+2021-02-26 23:32:11,316 ERROR:log_namespace.logfile name 'remove' is not defined
+2021-02-26 23:33:14,774 ERROR:log_namespace.logfile 'builtin_function_or_method' object is not subscriptable
+2021-02-26 23:49:20,595 ERROR:log_namespace.logfile 'builtin_function_or_method' object is not subscriptable
+2021-02-26 23:49:27,680 ERROR:log_namespace.logfile 'builtin_function_or_method' object is not subscriptable
+2021-02-26 23:50:16,175 ERROR:log_namespace.logfile pop index out of range
